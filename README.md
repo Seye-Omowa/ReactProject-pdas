@@ -1,2 +1,4 @@
 # ReactProject-pdas
-How to build and reuse a React component
+A static application demonstrating how to reuse react components.
+
+Styling is done with bulma css.
